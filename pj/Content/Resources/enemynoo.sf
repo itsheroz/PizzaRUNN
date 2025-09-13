@@ -1,0 +1,12 @@
+{
+  "textureAtlas": {
+    "texture": "Enermy2.png",
+    "regionWidth": 128,
+    "regionHeight": 128
+  },
+  "cycles": {
+    "enermynoo": {
+      "frames": [0]
+    }
+  }
+}

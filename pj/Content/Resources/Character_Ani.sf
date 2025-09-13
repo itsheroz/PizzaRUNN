@@ -1,0 +1,21 @@
+{
+  "textureAtlas": {
+    "texture": "Character_spritesheet.png",
+    "regionWidth": 64,
+    "regionHeight": 64
+  },
+  "cycles": {
+    "p_idle": {
+      "frames": [0,1,2]
+    },
+    "p_run": {
+      "frames": [15,16,17,18,19]
+    },
+    "p_jump": {
+      "frames": [30]
+    },
+    "p_dead": {
+      "frames": [45]
+    }
+  }
+}

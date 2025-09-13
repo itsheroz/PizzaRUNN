@@ -1,0 +1,21 @@
+{
+  "textureAtlas": {
+    "texture": "enemySprite.png",
+    "regionWidth": 64,
+    "regionHeight": 64
+  },
+  "cycles": {
+    "pineapp": {
+      "frames": [0]
+    },
+    "mouse": {
+      "frames": [1]
+    },
+    "noo": {
+      "frames": [2]
+    },
+    "moresad": {
+      "frames": [3,4]
+    }
+  }
+}

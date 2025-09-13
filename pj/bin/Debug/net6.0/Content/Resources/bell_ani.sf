@@ -1,0 +1,12 @@
+{
+  "textureAtlas": {
+    "texture": "bell.png",
+    "regionWidth": 48,
+    "regionHeight": 48
+  },
+  "cycles": {
+    "bell": {
+      "frames": [0]
+    }
+  }
+}

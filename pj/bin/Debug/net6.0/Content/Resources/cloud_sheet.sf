@@ -1,0 +1,12 @@
+{
+  "textureAtlas": {
+    "texture": "spite-clound.png",
+    "regionWidth": 126,
+    "regionHeight": 126
+  },
+  "cycles": {
+    "cloudFake": {
+      "frames": [3,4,5]
+    }
+  }
+}

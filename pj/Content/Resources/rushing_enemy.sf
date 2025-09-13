@@ -1,0 +1,12 @@
+{
+  "textureAtlas": {
+    "texture": "Enermy3.0.png",
+    "regionWidth": 64,
+    "regionHeight": 64
+  },
+  "cycles": {
+    "enemy_rush": {
+      "frames": [0]
+    }
+  }
+}
